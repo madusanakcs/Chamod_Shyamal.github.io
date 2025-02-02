@@ -184,10 +184,5 @@ defaults:
       author_profile: false
       share: true
 
-    .author__avatar {
-    width: 150px;  /* Adjust the size as needed */
-    height: 150px;
-    border-radius: 50%;  /* Keeps the circular shape */
-}
 
 
