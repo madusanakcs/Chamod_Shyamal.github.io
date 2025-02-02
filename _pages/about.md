@@ -26,7 +26,7 @@ Email: chamodshyamal855 [AT] gmail [DOT] com
 ## News!
 ---
 * May 2023: Completed internship at MAS Bodyline (Pvt) Ltd.
-* December 2023: Worked as a Computer Vision Engineer intern at MAS Bodyline (Pvt) Ltd.
+* December 2023: Started a job as a Computer Vision Engineer intern at MAS Bodyline (Pvt) Ltd.
 * April 2022: Joined the Department of Electronic and Telecommunication Engineering, University of Moratuwa.
 * June 2021: Entered the Faculty of Engineering, University of Moratuwa.
 * December 2020: Passed the G.C.E. Advanced Level Examination (2019) in the Physical Science stream – Ranked 50th in the country and 5th in the district with a Z-score of 2.7754.
