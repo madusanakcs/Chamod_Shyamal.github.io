@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Document listing for the collection `_robots`.
+Document listing for the collection `Projects`.
