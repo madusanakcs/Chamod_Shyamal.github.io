@@ -57,35 +57,62 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+
+# Site Author
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name             : "Chamod Shyamal Madusan"
+  avatar           : "/assets/images/avatar.jpeg"
+  bio              : "Undergraduate at University of Moratuwa"
+  location         : "Colombo, Sri Lanka"
+  email            :
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:chamodshyamal855@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://madusanakcs.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/chamod_shyamal_"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://web.facebook.com/chamod.shyamal.52"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/madusanakcs/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/i_am_vengeance_2000/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@chamodshyamal8379"
 
+# Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/chamod_shyamal_"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/chamod.shyamal.52"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/madusanakcs/"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      url: "https://github.com/madusanakcs/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/i_am_vengeance_2000/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@chamodshyamal8379"
+
 
 defaults:
   # _posts
