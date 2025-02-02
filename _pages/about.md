@@ -10,7 +10,7 @@ Email: chamodshyamal855@gmail.com
 {: .text-justify}
 
 
-<span style="color:blue">*I am a proactive final-year B.Sc. engineering student majoring in Electronic and Telecommunication Engineering at the University of Moratuwa. With high programming skills and strong mathematical thinking, my interests predominantly lie in systems and high-performance computing, Machine Learning, Generative AI, Video Game Development, and Software Engineering. Email: chamodshyamal855@gmail,com*</span>
+<span style="color:blue">*I am a proactive final-year B.Sc. engineering student majoring in Electronic and Telecommunication Engineering at the University of Moratuwa. With high programming skills and strong mathematical thinking, my interests predominantly lie in systems and high-performance computing, Machine Learning, Generative AI, Video Game Development, and Software Engineering.*</span>
 
 
 
@@ -18,7 +18,7 @@ Email: chamodshyamal855@gmail.com
 
 [CV]({{ "/assets/Chamod_Shyamal_CV.pdf" | relative_url }}) &nbsp; &nbsp;
  
-[Transcript (Grad)]({{ "/assets/Chamod_Shyamal_Transcript.pdf" | relative_url }}) &nbsp; &nbsp;
+[Transcript]({{ "/assets/Chamod_Shyamal_Transcript.pdf" | relative_url }}) &nbsp; &nbsp;
 <!-- [Transcript (Undergrad)]({{ "/assets/pdf/Adhitha_Dias_Transcript.pdf" | relative_url }}) &nbsp; &nbsp; -->
 {: .text-left}
 
