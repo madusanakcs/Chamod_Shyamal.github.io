@@ -4,14 +4,14 @@ title: "Brain Hemorrhage Detection and Localization"
 date: 2023-11-02T12:00:00-04:00
 categories:
   - blog
-gallery:
-  - url: /assets/images/brain.jpg
-    image_path: /assets/images/brain.jpg
-    alt: "Results image 1"
 tags:
   - Deep Learning
   - Medical Imaging
   - Brain Hemorrhage
+gallery:
+  - url: /assets/images/brain.jpg
+    image_path: /assets/images/brain.jpg
+    alt: "Results image 1"
 ---
 
 Intracranial hemorrhage (ICH) is a critical medical condition characterized by bleeding within the intracranial vault. The
