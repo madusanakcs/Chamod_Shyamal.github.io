@@ -18,7 +18,6 @@ This repository explores geometric and probabilistic phenomena in high-dimension
 2. **Concentration of volume** near the equator and at the boundary.
 3. **Gaussian distribution** in high dimensions and norm concentration.
 
----
 
 # **1. Volume of a $p$-Dimensional Unit Sphere**
 
@@ -49,8 +48,6 @@ V_{\mathcal{S}_p} = V_{\mathcal{S}_{p-1}} \cdot \frac{\Gamma\left(\frac{1}{2}\ri
 V_{\mathcal{S}_p} = \frac{\pi^{p/2}}{\Gamma\left(\frac{p}{2} + 1\right)}.
 \]
 
----
-
 # **2. Concentration of Volume Near the Equator**
 
 ## **Spherical Caps and Volume Ratio**
@@ -72,7 +69,7 @@ For $\epsilon = \frac{c}{\sqrt{p-1}}$:
 \]
 **Interpretation**: Over 90% of the volume lies within $\mathcal{O}\left(\frac{1}{\sqrt{p}}\right)$ of the equator in high dimensions.
 
----
+
 
 # **3. Concentration in an Annulus at the Boundary**
 
@@ -89,7 +86,7 @@ For small $\epsilon$, $(1 - \epsilon)^p \approx e^{-p\epsilon}$:
 \]
 **Interpretation**: For $\epsilon = \frac{c}{p}$, nearly all volume concentrates in a thin shell of thickness $\mathcal{O}\left(\frac{1}{p}\right)$.
 
----
+
 
 # **4. Gaussians in High Dimensions**
 
@@ -108,7 +105,7 @@ f_{\|\mathbf{x}\|}(r) = \frac{1}{2^{p/2-1}\Gamma(p/2)} r^{p-1} e^{-r^2/2}.
 
 **Interpretation**: Gaussian mass concentrates in a narrow annulus of radius $\sqrt{p} \pm \mathcal{O}(1)$.
 
----
+
 
 # **Key Takeaways**
 1. **Spheres**: 
@@ -118,10 +115,9 @@ f_{\|\mathbf{x}\|}(r) = \frac{1}{2^{p/2-1}\Gamma(p/2)} r^{p-1} e^{-r^2/2}.
 3. **Tools**:
    - Beta/Gamma functions, Stirling’s approximation, and geometric intuition explain high-dimensional phenomena.
 
----
+
 
 # **Usage**
 All equations are written in LaTeX. Clone the repository and compile with LaTeX for detailed derivations.
 
----
 
