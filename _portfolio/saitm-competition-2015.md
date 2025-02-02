@@ -7,10 +7,7 @@ search: true
 author_profile: true
 ---
 
-Create a Space Ship Simulation with realistic 3D graphics using the Unreal game engine.
-Developing advanced physics systems to simulate hyperspace dives, gravitational pulls, and navigation around celestial objects.
-Creating immersive scenes that highlight the thrill of space exploration, featuring black holes and massive stars.
-Combining real-world physics with engaging gameplay for a thrilling and educational space adventure.
+Step into the world of The Space Ship Simulation, where amazing 3D graphics and realistic physics come together to create an exciting space adventure. Experience hyperspace jumps, feel the pull of gravity, and navigate around stars, black holes, and other cosmic wonders. With its stunning visuals and real-world science, this simulation is not just fun to play but also teaches you about the mysteries of space. Join us as we explore this thrilling blend of gaming and learning!
 
 ## Trailer 1
 {% include video id="2RVXPNnXr4M" provider="youtube" %}
