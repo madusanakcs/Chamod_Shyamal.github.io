@@ -17,28 +17,28 @@ tags:
 
 ### **Definition**
 The $p$-dimensional unit sphere $\mathcal{S}_p$ is defined as
-
+</br>
 ![image](https://github.com/user-attachments/assets/04bdacc8-279f-44d8-91e3-7033f07dc55c)
 
 
 ## **Volume Derivation**
 The volume $V_{\mathcal{S}_p}$ is computed recursively using polar coordinates and the Beta function:
 1. **Recursive Integral**
-
+</br>
 ![image](https://github.com/user-attachments/assets/8d8fa7cb-65c1-443e-9b1a-cea1a608fcb5)
-
+</br>
 ![image](https://github.com/user-attachments/assets/76e76da2-e4f3-4f65-8b6f-8285ea7180bd)
 
 
 3. **Beta Function Substitution**:
    Using $t = x^2$, the integral becomes
-
+</br>
 ![image](https://github.com/user-attachments/assets/d3200baf-a42f-4be9-aaf2-1a530cdcae86)
 
 
 5. **Final Formula**
 
-   
+</br> 
 ![image](https://github.com/user-attachments/assets/0a19c43f-85c6-45ad-99c8-d43e41f5793a)
 
 
