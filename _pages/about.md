@@ -6,7 +6,7 @@ last_modified_at: 2025-02-02T15:46:43-04:00
 toc: true
 ---
 
-Email: chamodshyamal855 [AT] gmail [DOT] com
+Email: chamodshyamal855@gmail.com
 {: .text-justify}
 
 
