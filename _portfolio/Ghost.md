@@ -1,6 +1,6 @@
 ---
 title: "Ghost"
-excerpt: "Ghost"
+excerpt: "Third Person Military game"
 permalink: /portfolio/ghost
 toc: true
 search: true
@@ -12,5 +12,5 @@ Immerse players in intense combat with customizable gear.
 Enhance immersion with captivating cutscenes and animations.
 ## Gameplay
 {% include video id="zwrkBfO-K9M" provider="youtube" %}
-Task execution
+
 {: .text-center}
