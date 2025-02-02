@@ -24,8 +24,9 @@ The $p$-dimensional unit sphere $\mathcal{S}_p$ is defined as
 ## **Volume Derivation**
 The volume $V_{\mathcal{S}_p}$ is computed recursively using polar coordinates and the Beta function:
 1. **Recursive Integral**
-
+<p align="center">
 ![image](https://github.com/user-attachments/assets/8d8fa7cb-65c1-443e-9b1a-cea1a608fcb5)
+</p>
 
 ![image](https://github.com/user-attachments/assets/76e76da2-e4f3-4f65-8b6f-8285ea7180bd)
 
