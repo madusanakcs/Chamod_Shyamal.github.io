@@ -16,9 +16,9 @@ Email: chamodshyamal855 [AT] gmail [DOT] com
 
 
 
-[CV]({{ "/assets/pdf/Chamod_Shyamal_CV.pdf" | relative_url }}) &nbsp; &nbsp;
-[SOP (Outdated)]({{ "/assets/pdf/Chamod_Shyamal_CV.pdf" | relative_url }}) &nbsp; &nbsp;
-[Transcript (Grad)]({{ "/assets/pdf/Chamod_Shyamal_Transcript.pdf" | relative_url }}) &nbsp; &nbsp;
+[CV]({{ "/assets/Chamod_Shyamal_CV.pdf" | relative_url }}) &nbsp; &nbsp;
+ 
+[Transcript (Grad)]({{ "/assets/Chamod_Shyamal_Transcript.pdf" | relative_url }}) &nbsp; &nbsp;
 <!-- [Transcript (Undergrad)]({{ "/assets/pdf/Adhitha_Dias_Transcript.pdf" | relative_url }}) &nbsp; &nbsp; -->
 {: .text-left}
 
