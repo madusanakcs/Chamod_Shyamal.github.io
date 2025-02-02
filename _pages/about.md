@@ -1,8 +1,34 @@
 ---
 permalink: /about/
 title: "About"
+excerpt: "About Chamod Shyamal Madusan"
+last_modified_at: 2025-02-02T15:46:43-04:00
+toc: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Email: chamodshyamal855 [AT] gmail [DOT] com
+{: .text-justify}
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+<span style="color:blue">*I am a proactive final-year B.Sc. engineering student majoring in Electronic and Telecommunication Engineering at the University of Moratuwa. With high programming skills and strong mathematical thinking, my interests predominantly lie in systems and high-performance computing, Machine Learning, Generative AI, Video Game Development, and Software Engineering. Email: chamodshyamal855@gmail,com*</span>
+
+
+
+
+
+[CV]({{ "/assets/pdf/Chamod_Shyamal_CV.pdf" | relative_url }}) &nbsp; &nbsp;
+[SOP (Outdated)]({{ "/assets/pdf/Chamod_Shyamal_CV.pdf" | relative_url }}) &nbsp; &nbsp;
+[Transcript (Grad)]({{ "/assets/pdf/Chamod_Shyamal_Transcript.pdf" | relative_url }}) &nbsp; &nbsp;
+<!-- [Transcript (Undergrad)]({{ "/assets/pdf/Adhitha_Dias_Transcript.pdf" | relative_url }}) &nbsp; &nbsp; -->
+{: .text-left}
+
+
+## News!
+---
+* May 2023: Completed internship at MAS Bodyline (Pvt) Ltd.
+* December 2023: Worked as a Computer Vision Engineer intern at MAS Bodyline (Pvt) Ltd.
+* April 2022: Joined the Department of Electronic and Telecommunication Engineering, University of Moratuwa.
+* June 2021: Entered the Faculty of Engineering, University of Moratuwa.
+* December 2020: Passed the G.C.E. Advanced Level Examination (2019) in the Physical Science stream – Ranked 50th in the country and 5th in the district with a Z-score of 2.7754.
+* November 2019: Won a Silver Medal in the Physics Olympiad with a score of 96/100.
+* April 2017: Passed the G.C.E. Ordinary Level Examination at Richmond College, Galle, with 8 A passes and 1 B pass.
