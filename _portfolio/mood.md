@@ -1,7 +1,7 @@
 ---
 title: "Mood Lamp"
 excerpt: "Mood Lamp"
-permalink: /portfolio/ghost
+permalink: /portfolio/mood
 toc: true
 search: true
 author_profile: true
