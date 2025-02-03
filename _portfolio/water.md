@@ -1,7 +1,7 @@
 ---
 title: "Water Level Detector"
-excerpt: "Third Person Military game"
-permalink: /portfolio/ghost
+excerpt: "EN1190 Engineering Design Project"
+permalink: /portfolio/water
 toc: true
 search: true
 author_profile: true
