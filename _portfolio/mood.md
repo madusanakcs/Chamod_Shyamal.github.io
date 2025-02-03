@@ -11,7 +11,7 @@ The Mood Lamp Project is a customizable RGB LED lighting system with wireless re
 
 
 ## Gameplay
-{% include video id="zwrkBfO-K9M" provider="youtube" %}
+{% include video id="569uRFUX4wE" provider="youtube" %}
 
 [Report]({{ "https://github.com/madusanakcs/Mood-Lamp/blob/main/final_report.pdf"  }})   
 {: .text-center}
