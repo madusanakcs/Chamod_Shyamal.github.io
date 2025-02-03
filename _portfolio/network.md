@@ -1,6 +1,6 @@
 ---
-title: "Ghost"
-excerpt: "Third Person Military game"
+title: "Design of Local Area Network Simulation"
+excerpt: "Implemented a backbone network for the university and the ENTC department"
 permalink: /portfolio/ghost
 toc: true
 search: true
