@@ -1,16 +1,11 @@
 ---
-title: "Ghost"
+title: "Water Level Detector"
 excerpt: "Third Person Military game"
 permalink: /portfolio/ghost
 toc: true
 search: true
 author_profile: true
 ---
-Develop an immersive RPG shooting game with realistic 3D graphics using Unity and C.
-Craft lifelike enemy AI to challenge players with dynamic tactics and reactions, mirroring real combat scenarios.
-Immerse players in intense combat with customizable gear.
-Enhance immersion with captivating cutscenes and animations.
-## Gameplay
-{% include video id="zwrkBfO-K9M" provider="youtube" %}
+As part of the EN1190 Engineering Design Project, we developed a Bluetooth-enabled water level detection system to help users monitor and control household water levels efficiently. Using an Atmega328P microcontroller and an ultrasonic sensor, it provides real-time alerts via a mobile app to prevent water and power wastage, motor damage, and inconvenience during power cuts. Designed with Altium (PCB) and SolidWorks (enclosure), the compact, low-power device operates even during outages. A survey showed 91.7% interest, confirming its demand. Despite challenges like waterproofing and budget constraints, our solution offers 24/7 monitoring with a 100m Bluetooth range, making it more efficient and durable than mechanical alternatives.
 
-{: .text-center}
+
