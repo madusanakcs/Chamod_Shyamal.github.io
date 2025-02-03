@@ -6,10 +6,10 @@ toc: true
 search: true
 author_profile: true
 ---
-Develop an immersive RPG shooting game with realistic 3D graphics using Unity and C.
-Craft lifelike enemy AI to challenge players with dynamic tactics and reactions, mirroring real combat scenarios.
-Immerse players in intense combat with customizable gear.
-Enhance immersion with captivating cutscenes and animations.
+The Mood Lamp Project is a customizable RGB LED lighting system with wireless remote control and music visualization features. Users can adjust color, brightness, and effects via a mobile app, while audio sensors sync lighting with sound. Built with Arduino/C++, the lamp includes a compact enclosure, efficient power management, and a well-designed PCB. Testing ensures stable performance, and future improvements may include smart home integration.
+
+
+
 ## Gameplay
 {% include video id="zwrkBfO-K9M" provider="youtube" %}
 
