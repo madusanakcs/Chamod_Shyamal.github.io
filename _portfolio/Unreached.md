@@ -12,7 +12,7 @@ Beautifully optimized worlds and an engaging narrative.– Includes an open-worl
 Includes advanced weapons, vehicle control, a shop system, dynamic weather, and realistic gameplay.Develop a questionnaire website focused on promoting energy-saving habits and sustainable practices.
 
 ## Trailer
-{https://github.com/Pabadhi/SPAC-Studios/assets/129760133/89186197-f44c-48a1-a6ba-f794279e106a}
+{% include video id="lILOfArVDHs" provider="youtube" %}
 Trailer 1
 {: .text-center}
 
