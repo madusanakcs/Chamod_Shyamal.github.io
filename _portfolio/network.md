@@ -13,7 +13,8 @@ A key feature of the project is the implementation of OSPF (Open Shortest Path F
 
 ### Network Diagrams
 
-![Network Diagram - ENTC bulding ]![image](https://github.com/user-attachments/assets/70c12aa5-ddaf-4e8b-af53-e99c151c1e66)
+[Network Diagram - ENTC bulding 
+![image](https://github.com/user-attachments/assets/70c12aa5-ddaf-4e8b-af53-e99c151c1e66)
 
-![Network Diagram - Univercity of Moratuwa](https://github.com/madusanakcs/UOM-LAN-Backbone-and-ENTC-Network-Design-Project/blob/main/stage%202/Screenshot%202023-09-20%20012814.png)
-
+Network Diagram - Univercity of Moratuwa
+![image](https://github.com/madusanakcs/madusanakcs.github.io/blob/master/assets/n.png)
