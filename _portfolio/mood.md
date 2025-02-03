@@ -1,6 +1,6 @@
 ---
-title: "Ghost"
-excerpt: "Third Person Military game"
+title: "Mood Lamp"
+excerpt: "Mood Lamp"
 permalink: /portfolio/ghost
 toc: true
 search: true
@@ -12,5 +12,6 @@ The Mood Lamp Project is a customizable RGB LED lighting system with wireless re
 
 ## Gameplay
 {% include video id="zwrkBfO-K9M" provider="youtube" %}
+
 [Report]({{ "https://github.com/madusanakcs/Mood-Lamp/blob/main/final_report.pdf"  }})   
 {: .text-center}
